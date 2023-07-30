@@ -26,11 +26,7 @@ body {
   width: 500px;
   height: 500px;
   background: rgb(134, 223, 224);
-  background: linear-gradient(
-    0deg,
-    rgb(224 134 134) 20%,
-    rgb(79 224 231) 74%
-  );
+  background: linear-gradient( 0deg, rgb(131, 24, 24) 20%, rgb(18, 174, 181) 74%);
   padding: 2.5rem;
   flex-direction: column;
   border-radius: 50%;
